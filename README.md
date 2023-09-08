@@ -18,6 +18,5 @@ I did not import a new library; I used the existing ones, which are:
 - Android KTX: Used to write more concise, idiomatic Kotlin code
   
 ## Live Demo
-[<img src="https://user-images.githubusercontent.com/51162743/200105989-f3cb52e3-f43f-4b81-8de0-1e9377798a2d.png">](https://appetize.io/app/dvnqle65wjek6uimfbuxsf4wwa?device=pixel4&osVersion=11.0&scale=75)
-
+[![device_img]("https://user-images.githubusercontent.com/51162743/200105989-f3cb52e3-f43f-4b81-8de0-1e9377798a2d.png")](https://appetize.io/app/dvnqle65wjek6uimfbuxsf4wwa?device=pixel4&osVersion=11.0&scale=75)
  
