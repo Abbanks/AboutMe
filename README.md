@@ -5,7 +5,7 @@ AboutMe features my Slack identity, incorporates my Slack profile picture, and i
 
 ## Code Description
 The `app` module contains app level and scaffolding classes that bind the rest of the codebase, such as `MainActivity`, `PersonalDetails()`.
-- The `MainActivity`contains 1 composable, and it has a verticalScroll modifier that scrolls the screen vertically. The UI is divided into one section:
+- The `MainActivity ' contains 1 composable, and it has a verticalScroll modifier that scrolls the screen vertically. The UI is divided into one section:
 - `PersonalDetails()` composable function: It implements an Image and a Button composable, which features my image, and a button that, when pressed, directs to a browser.
 
 ## Screenshots
@@ -18,6 +18,5 @@ I did not import a new library; I used the existing ones, which are:
 - Android KTX: Used to write more concise, idiomatic Kotlin code
   
 ## Live Demo
-[![resume](https://github.com/Abbanks/AboutMe/assets/51162743/75206723-ac14-4c4d-886a-a36cf7bc8e2b)](https://appetize.io/app/dvnqle65wjek6uimfbuxsf4wwa?device=pixel4&osVersion=11.0&scale=75)
+[![resume](https://github.com/Abbanks/AboutMe/assets/51162743/75206723-ac14-4c4d-886a-a36cf7bc8e2b)(https://appetize.io/app/dvnqle65wjek6uimfbuxsf4wwa?device=pixel4&osVersion=11.0&scale=75)]
   
-
